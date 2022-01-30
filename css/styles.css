@@ -1,0 +1,26 @@
+body {
+  background-color: #eaf6f6;
+}
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+h1 {
+  color: #66bfbf;
+}
+h2 {
+  color: #66bfbf;
+}
+h3 {
+  color: #66bfbf;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+  font-family: "Shadows Into Light", cursive;
+}
