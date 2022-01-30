@@ -24,3 +24,8 @@ body {
   font-family: "Roboto Condensed", sans-serif;
   font-family: "Shadows Into Light", cursive;
 }
+.primary-link {
+  color: #e5890a;
+  background-color: #f2f013;
+  border-radius: 2rem;
+}
